@@ -87,3 +87,7 @@ jobs:
 ```
 
 Set the required secrets in your repository settings.
+
+## License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
